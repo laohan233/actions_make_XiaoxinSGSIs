@@ -1,6 +1,6 @@
 {
   "rom_url": "http://download.h2os.com/OnePlus7Pro/MP/OnePlus7ProHydrogen_21.H.28_OTA_028_all_2007240037_b03998cd3afb4bb7.zip",
-  "rom_name": "OnePlus7ProHydrogen_21.H.28_OTA_028_all_2007240037_b03998cd3afb4bb7.zip",
+  "rom_name": "Hydrogen",
   "pack_sgsi": "OnePlus7ProHydrogen_21.H.28_OTA_028_all_200724003laohanSGSIs.7z",
   "make_miui": false,
   "make_flyme": false,
@@ -8,5 +8,5 @@
   "make_h2os": true,
   "make_smartisanos": false,
   "make_zui": false,
-  "make_super":  false
+  "make_super":  true
 }
