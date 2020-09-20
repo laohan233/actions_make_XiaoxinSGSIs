@@ -1,11 +1,11 @@
 {
-  "rom_url": "https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200825094237/PDEM10_11_OTA_0460_all_MHvLRj9IGkbL.ozip",
-  "rom_name": "PDEM10_11_OTA_0460_all_MHvLRj9IGkbL.ozip",
-  "pack_sgsi": "PDEM10_11_OTA_0460_XiaoxinSGSIs_Pinkdoge.7z",
+  "rom_url": "http://download.h2os.com/OnePlus7Pro/MP/OnePlus7ProHydrogen_21.H.28_OTA_028_all_2007240037_b03998cd3afb4bb7.zip",
+  "rom_name": "OnePlus7ProHydrogen_21.H.28_OTA_028_all_2007240037_b03998cd3afb4bb7.zip",
+  "pack_sgsi": "h2os_10_OTA_0460_老韩SGSIs.7z",
   "make_miui": false,
   "make_flyme": false,
   "make_coloros": true,
-  "make_h2os": false,
+  "make_h2os": true,
   "make_smartisanos": false,
   "make_zui": false,
   "make_super": true
