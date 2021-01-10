@@ -1,12 +1,12 @@
 {
-  "rom_url": "http://fs.oppo.com/3/oppowww/androidrom/pcam00/PCAM00_11_OTA_0230_all_DIAhxKX7oFoM.ozip",
-  "rom_name": "Coloros",
-  "pack_sgsi": "ColorosP-A11laohanSGSIs.7z",
+  "rom_url": https://coloroswebsitefs.coloros.com/coloroswebsite-coloros-com/grs_20200825094237/PDEM10_11_OTA_0460_all_MHvLRj9IGkbL.ozip,
+  "rom_name": ColorOS,
+  "pack_sgsi": "ColorosR-laohanSGSIs.7z",
   "make_miui": false,
   "make_flyme": false,
   "make_coloros": true,
   "make_h2os": false,
   "make_smartisanos": false,
   "make_zui": false,
-  "make_super": false
+  "make_super": true,
 }
